@@ -161,8 +161,8 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Joshua Nyawach - [Github](https://github.com/jnyawach) / [Twitter](https://twitter.com/JNyawach)  
-Fortune Nwagbara - [Github](https://github.com/github-username) / [Twitter](https://twitter.com/twitter-url)
+Michael Saiba - [Github](https://github.com/Konyuka) 
+
 
 
 ## License
